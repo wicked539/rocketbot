@@ -1,0 +1,16 @@
+{
+  "name": "foobot",
+  "version": "0.1.0",
+  "description": "foobot irc rocketchat bridge",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node src/main.js",
+    "test": "test"
+  },
+  "dependencies": {
+  	"irc": "^0.5.0",
+  	"request": "2.74.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
